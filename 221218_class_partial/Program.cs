@@ -1,0 +1,17 @@
+﻿using System;
+
+namespace _221218_class_partial
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            AA aa = new AA();
+            aa.SetNum(10);
+            aa.ADD();
+
+            aa.SetNum(100);
+            aa.MUL();
+        }
+    }
+}

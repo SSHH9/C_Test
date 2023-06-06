@@ -1,0 +1,27 @@
+﻿using System;
+
+namespace _230219Assignment3_Constructor
+{
+    /////289
+    class Parent
+    {
+        public Parent()
+        {
+            Console.WriteLine("Create Parent");
+        }
+    }
+    class Child:Parent
+    {
+        public Child()
+        {
+            Console.WriteLine("Create Child");
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Child me = new Child();     // 예상: Create Parent\nCreate Child
+        }
+    }
+}

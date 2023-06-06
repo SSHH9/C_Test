@@ -1,0 +1,6 @@
+[static]
+(class이름).(함수이름)
+
+
+[public]
+(class이름없이).(그냥함수이름)

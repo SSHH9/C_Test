@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ad+2YRjri8fuVLuLIkGPA7M2G/aCUgj6bFkmi3+s248xOZvmmPppUJfDm4AjqhQA32GSh36aHKTrXDJ7hjw9aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\95082\\Desktop\\Program\\Practice2_C#_ChoiYuraClass\\230108_ArrayList\\230108_ArrayList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\95082\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

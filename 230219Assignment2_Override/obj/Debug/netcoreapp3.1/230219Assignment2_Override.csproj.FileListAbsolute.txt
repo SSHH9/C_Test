@@ -1,0 +1,14 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\bin\Debug\netcoreapp3.1\230219Assignment2_Override.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\bin\Debug\netcoreapp3.1\230219Assignment2_Override.deps.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\bin\Debug\netcoreapp3.1\230219Assignment2_Override.runtimeconfig.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\bin\Debug\netcoreapp3.1\230219Assignment2_Override.runtimeconfig.dev.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\bin\Debug\netcoreapp3.1\230219Assignment2_Override.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\bin\Debug\netcoreapp3.1\230219Assignment2_Override.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\obj\Debug\netcoreapp3.1\230219Assignment2_Override.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\obj\Debug\netcoreapp3.1\230219Assignment2_Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\obj\Debug\netcoreapp3.1\230219Assignment2_Override.AssemblyInfoInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\obj\Debug\netcoreapp3.1\230219Assignment2_Override.AssemblyInfo.cs
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\obj\Debug\netcoreapp3.1\230219Assignment2_Override.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\obj\Debug\netcoreapp3.1\230219Assignment2_Override.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\obj\Debug\netcoreapp3.1\230219Assignment2_Override.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment2_Override\obj\Debug\netcoreapp3.1\230219Assignment2_Override.genruntimeconfig.cache

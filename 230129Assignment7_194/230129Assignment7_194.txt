@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+
+namespace _230129Assignment7_194
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<List<int>> data = new List<List<int>>() {
+                new List<int> {2000, 3050, 2050, 1980},
+                new List<int> {7500, 2050, 2050, 1980},
+                new List<int> {15450, 15050, 15550, 14900},
+            };
+
+            int i = 0;
+            List<List<double>> result = new List<List<double>>()
+            {
+                new List<double> { data[i][i] + data[i][i] * 0.00014, data[i][i+1] + data[0][1] * 0.00014, data[i][i+2] + data[i][i+2] * 0.00014, data[i][i+3] + data[i][i+3] * 0.00014 },
+                new List<double> { data[i+1][i] + data[i + 1][i] * 0.00014, data[i + 1][i + 1] + data[i + 1][i + 1] * 0.00014, data[i + 1][i + 2] + data[i + 1][i + 2] * 0.00014, data[i + 1][i + 3] + data[i + 1][i + 3] * 0.00014 },
+                new List<double> { data[i+2][i] + data[i + 2][i] * 0.00014, data[i + 2][i + 1] + data[i + 2][i + 1] * 0.00014, data[i + 2][i + 2] + data[i + 2][i + 2] * 0.00014, data[i + 2][i + 3] + data[i + 2][i + 3] * 0.00014 },
+            };
+            foreach (var item in result)
+            {
+                foreach (var item2 in item)
+                {
+                    Console.WriteLine(item2);
+                }
+            }
+
+        }
+    }
+}

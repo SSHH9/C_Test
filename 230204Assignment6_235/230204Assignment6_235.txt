@@ -1,0 +1,19 @@
+using System;
+
+namespace _230204Assignment6_235
+{
+    class Program
+    {
+        static void convert_int(string a)
+        {
+            string b = a.Replace(",", "");
+            int c = int.Parse(b);
+
+            Console.WriteLine(c);
+        }
+        static void Main(string[] args)
+        {
+            convert_int("1,234,567");
+        }
+    }
+}

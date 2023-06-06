@@ -1,0 +1,76 @@
+using System;
+
+namespace _221218Assignment2
+{
+    class Input
+    {
+        public int InputNumber(int count)
+        {
+            int temp = 0;
+            if (count == 0)
+            {
+                Console.Write("Input First Number ");
+            }
+            else
+            {
+                Console.Write("Input Second Number ");
+            }
+
+            temp = int.Parse(Console.ReadLine());
+            return temp;
+        }
+    }
+
+    class Result
+    {
+        public void PrintResult(int a, int b)
+        {
+            Console.WriteLine("{0} + {1} = {2}", a, b, a + b);
+        }
+        public bool CheckEnd()
+        {
+            bool isEnd = false;
+            int tmp = 0;
+
+            Console.Write("Calculation Again? (1:OK, 0:NO, Up to 10 times) ");
+            tmp = int.Parse(Console.ReadLine());
+            isEnd = (tmp == 0);
+
+            return isEnd;
+        }
+    }
+
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            Input input = new Input();
+            Result print = new Result();
+            Result check = new Result();
+
+            int[] inputA = new int[10];
+            int[] inputB = new int[10];
+            int indexCount = 0;
+
+            while (true)
+            {
+                inputA[indexCount] = input.InputNumber(0);
+                inputB[indexCount] = input.InputNumber(1);
+
+                print.PrintResult(inputA[indexCount], inputB[indexCount]);
+
+                indexCount++;
+
+                if (indexCount >= 10 || check.CheckEnd())
+                {
+                    for (int i = 0; i < indexCount; i++)
+                    {
+                        print.PrintResult(inputA[i], inputB[i]);
+                    }
+                    break;
+                }
+            }
+        }
+    }
+}

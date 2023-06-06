@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_throw\bin\Debug\230402_throw.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_throw\bin\Debug\230402_throw.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_throw\bin\Debug\230402_throw.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_throw\obj\Debug\230402_throw.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_throw\obj\Debug\230402_throw.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_throw\obj\Debug\230402_throw.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_throw\obj\Debug\230402_throw.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_throw\obj\Debug\230402_throw.pdb

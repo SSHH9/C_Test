@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "230219Assignment3_Constructor/1.0.0": {
+        "runtime": {
+          "230219Assignment3_Constructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "230219Assignment3_Constructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

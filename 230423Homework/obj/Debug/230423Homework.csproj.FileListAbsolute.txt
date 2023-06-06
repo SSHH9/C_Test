@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423Homework\bin\Debug\230423Homework.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423Homework\bin\Debug\230423Homework.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423Homework\bin\Debug\230423Homework.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423Homework\obj\Debug\230423Homework.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423Homework\obj\Debug\230423Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423Homework\obj\Debug\230423Homework.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423Homework\obj\Debug\230423Homework.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423Homework\obj\Debug\230423Homework.pdb

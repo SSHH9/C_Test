@@ -1,0 +1,46 @@
+    class Customer
+    {
+        int customerID;
+        string customerName;
+        public string customerGrade;
+        double bonusPoint;
+        public double bonusRatio;
+
+        public Customer()
+        {
+            this.customerGrade = "";
+            this.bonusRatio = 0;
+        }
+
+        public double calcPrice(int price)
+        {
+
+            return bonusPoint;
+        }
+
+        public void showCustomerInfo()
+        {
+            Console.WriteLine(customerName + " 님의 등급은 " + customerGrade+" 이며, 보너스 포인트는 "+ bonusPoint + " 점 입니다.");
+        }
+
+    }
+
+    class VIPCustomer : Customer
+    {
+        double salesRatio;
+
+        public VIPCustomer()
+        {
+            this.customerGrade = "";    //this? base?
+            this.bonusRatio = 0;        //this? base?
+            this.salesRatio = 0;        //this? base?
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+        }
+    }

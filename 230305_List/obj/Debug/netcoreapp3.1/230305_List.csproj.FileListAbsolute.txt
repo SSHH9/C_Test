@@ -1,0 +1,14 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\bin\Debug\netcoreapp3.1\230305_List.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\bin\Debug\netcoreapp3.1\230305_List.deps.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\bin\Debug\netcoreapp3.1\230305_List.runtimeconfig.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\bin\Debug\netcoreapp3.1\230305_List.runtimeconfig.dev.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\bin\Debug\netcoreapp3.1\230305_List.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\bin\Debug\netcoreapp3.1\230305_List.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\obj\Debug\netcoreapp3.1\230305_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\obj\Debug\netcoreapp3.1\230305_List.AssemblyInfoInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\obj\Debug\netcoreapp3.1\230305_List.AssemblyInfo.cs
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\obj\Debug\netcoreapp3.1\230305_List.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\obj\Debug\netcoreapp3.1\230305_List.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\obj\Debug\netcoreapp3.1\230305_List.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\obj\Debug\netcoreapp3.1\230305_List.genruntimeconfig.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_List\obj\Debug\netcoreapp3.1\230305_List.csproj.AssemblyReference.cache

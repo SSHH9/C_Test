@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace _230129Assignment3_190
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<List<string>> apart = new List<List<string>>() {
+                new List<string> {"101", "102"},
+                new List<string> {"201", "202"},
+                new List<string> {"301", "302"},
+            };
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 2; j++)
+                {
+                    Console.WriteLine(apart[i][j]);
+                }
+            }
+            Console.WriteLine("-----");
+
+        }
+    }
+}

@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_ramda\bin\Debug\230409_ramda.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_ramda\bin\Debug\230409_ramda.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_ramda\bin\Debug\230409_ramda.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_ramda\obj\Debug\230409_ramda.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_ramda\obj\Debug\230409_ramda.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_ramda\obj\Debug\230409_ramda.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_ramda\obj\Debug\230409_ramda.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_ramda\obj\Debug\230409_ramda.pdb

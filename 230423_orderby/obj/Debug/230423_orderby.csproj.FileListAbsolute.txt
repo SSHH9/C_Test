@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_orderby\bin\Debug\230423_orderby.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_orderby\bin\Debug\230423_orderby.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_orderby\bin\Debug\230423_orderby.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_orderby\obj\Debug\230423_orderby.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_orderby\obj\Debug\230423_orderby.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_orderby\obj\Debug\230423_orderby.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_orderby\obj\Debug\230423_orderby.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_orderby\obj\Debug\230423_orderby.pdb

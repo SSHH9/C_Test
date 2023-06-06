@@ -1,0 +1,76 @@
+        static void InputID(int[] ID, int index)
+        {
+            ID[index] = int.Parse(Console.ReadLine());
+        }
+        static void InputKor(int[] kor, int index)
+        {
+            kor[index] = int.Parse(Console.ReadLine());
+        }
+        static void InputMath(int[] math, int index)
+        {
+            math[index] = int.Parse(Console.ReadLine());
+        }
+        static void InputEng(int[] eng, int index)
+        {
+            eng[index] = int.Parse(Console.ReadLine());
+        }
+        static void PrintID(int max, int[] ID)  ///max??
+        {
+            Console.WriteLine("Student ID: {0} "+"\n"+ "Student ID: {1} "+ "\n" + "Student ID: {2} ", ID[0],ID[1],ID[2]);
+            Console.Write("Input Student ID [(0):Exit]");
+        }
+        static int CheckID(int id, int max, int[] ID)
+        {
+            int index = Array.IndexOf(ID, id);
+            return index;
+        }
+        static void Main(string[] args)
+        {
+            int[] ID = new int[3];
+            int[] kor = new int[3];
+            int[] math = new int[3];
+            int[] eng = new int[3];
+
+            for (int i = 0; i < 3; i++)
+            {
+                Console.Write("Input Student ID: ");
+                InputID(ID, i);
+                Console.Write("Input Korean Score: ");
+                InputKor(kor, i);
+                Console.Write("Input Math Score: ");
+                InputMath(math, i);
+                Console.Write("Input English Score: ");
+                InputEng(eng, i);
+
+                Console.WriteLine("\n");
+            }
+
+            while (true)
+            {
+                PrintID(3, ID);
+
+                int a = int.Parse(Console.ReadLine());
+                int index = CheckID(a, 3, ID);
+
+                if (a != 0)
+                {
+                    if (index != -1)
+                    {
+                        Console.WriteLine("Korean Score: {0}", kor[index]);
+                        Console.WriteLine("Math Score: {0}", math[index]);
+                        Console.WriteLine("English Score: {0}", eng[index]);
+                        Console.WriteLine("Total: {0}", kor[index] + math[index] + eng[index]);
+                        Console.WriteLine("Average: {0}", (kor[index] + math[index] + eng[index]) / 3f);
+                        Console.WriteLine("\n");
+                    }
+                    else
+                    {
+                        Console.WriteLine("{0} is NOT exist. Please input ID again.", a);
+                    }
+                }
+                else
+                {
+                    break;
+                }
+            } 
+        }

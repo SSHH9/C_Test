@@ -1,0 +1,44 @@
+
+    class Order
+    {
+        public double number;
+        public string phone;
+        public string address;
+        public double date;
+        public double time;
+        public int price;
+        public string menu;
+
+        public Order(double number, string phone, string address, double date, double time, int price, string menu)
+        {
+            this.number = number;
+            this.phone = phone;
+            this.address = address;
+            this.date = date;
+            this.time = time;
+            this.price = price;
+            this.menu = menu;
+        }
+
+        public void Print()
+        {
+            Console.WriteLine();
+            Console.WriteLine("아래와 같은 주문이 들어왔습니다.");
+            Console.WriteLine("number: {0}", number);
+            Console.WriteLine("phone: {0}", phone);
+            Console.WriteLine("adress: {0}", address);
+            Console.WriteLine("date: {0}", date);
+            Console.WriteLine("time: {0}", time);
+            Console.WriteLine("price: {0}", price);
+            Console.WriteLine("menu: {0}", menu);
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Order A = new Order(202011020003, "01023450001", "서울시 강남구 역삼동 111-333", 20201102, 130258, 35000, "0003");
+            A.Print();
+        }
+    }

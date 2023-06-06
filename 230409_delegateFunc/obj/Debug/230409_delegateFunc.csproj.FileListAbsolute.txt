@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_delegateFunc\bin\Debug\230409_delegateFunc.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_delegateFunc\bin\Debug\230409_delegateFunc.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_delegateFunc\bin\Debug\230409_delegateFunc.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_delegateFunc\obj\Debug\230409_delegateFunc.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_delegateFunc\obj\Debug\230409_delegateFunc.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_delegateFunc\obj\Debug\230409_delegateFunc.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_delegateFunc\obj\Debug\230409_delegateFunc.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_delegateFunc\obj\Debug\230409_delegateFunc.pdb

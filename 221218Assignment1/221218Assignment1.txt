@@ -1,0 +1,142 @@
+using System;
+
+namespace _221218Assignment1
+{
+    class Student
+    {
+        public void InputID(int[] ID, int index)
+        {
+            Console.Write("Input Student ID: ");
+            ID[index] = int.Parse(Console.ReadLine());
+        }
+        public void PrintID(int max, int[] ID)  ///max??
+        {
+            for (int i = 0; i < max; i++)
+            {
+                Console.WriteLine("Student ID: {0} ", ID[i]);
+            }
+        }
+        public int CheckID(int id, int max, int[] ID)
+        {
+            int index = Array.IndexOf(ID, id);
+            return index;
+        }
+
+        
+    }
+
+    class Subject
+    {
+
+        public Subject()
+        {
+
+        }
+    }
+
+    class Korean : Subject
+    {
+
+        public Korean()
+        {
+
+        }
+        public void InputKor(int[] kor, int index)
+        {
+            Console.Write("Input Korean Score: ");
+            kor[index] = int.Parse(Console.ReadLine());
+        }
+    }
+    class Math : Subject
+    {
+
+        public Math()
+        {
+
+        }
+
+        public void InputMath(int[] math, int index)
+        {
+            Console.Write("Input Math Score: ");
+            math[index] = int.Parse(Console.ReadLine());
+        }
+    }
+    class English : Subject
+    {
+        public English()
+        {
+
+        }
+
+        public void InputEng(int[] eng, int index)
+        {
+            Console.Write("Input English Score: ");
+            eng[index] = int.Parse(Console.ReadLine());
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Student student = new Student();    
+            //Subject korean = new Korean();
+            //Subject math = new Math();
+            //Subject english = new English();
+
+            Student student = new Student();
+            Korean korean = new Korean();       // [[질문]] 
+            Math math = new Math();             // 위쪽 주석처럼 Subject korean = new Korean(); 형태로 하려면 에러가 나는데
+            English english = new English();    // 어떻게 바꾸면 좋을까요....
+
+
+            const int MAX = 3;
+
+            int[] ID = new int[3];
+            int[] kor = new int[3];
+            int[] mat = new int[3];
+            int[] eng = new int[3];
+
+            int inputSel = 0;
+            int selID = -1;
+
+            for (int i = 0; i < MAX; i++)
+            {
+                student.InputID(ID, i);
+                korean.InputKor(kor, i);
+                math.InputMath(mat, i);
+                english.InputEng(eng, i);
+
+                Console.WriteLine("\n");
+            }
+
+            while (true)
+            {
+                student.PrintID(MAX, ID);
+                Console.Write("Input Student ID [(0):Exit]");
+
+                inputSel = int.Parse(Console.ReadLine());
+
+                if (inputSel == 0)
+                {
+                    break;
+                }
+                selID = student.CheckID(inputSel, MAX, ID);
+
+                if (selID >= 0)
+                {
+                    Console.WriteLine("Korean Score: {0}", kor[selID]);
+                    Console.WriteLine("Math Score: {0}", mat[selID]);
+                    Console.WriteLine("English Score: {0}", eng[selID]);
+                    Console.WriteLine("Total: {0}", kor[selID] + mat[selID] + eng[selID]);
+                    Console.WriteLine("Average: {0}", (kor[selID] + mat[selID] + eng[selID]) / 3f);
+                    Console.WriteLine("\n");
+                }
+                else
+                {
+                    Console.WriteLine("{0} is NOT exist. Please input ID again.", inputSel);
+                }
+            }
+        }        
+    }
+}

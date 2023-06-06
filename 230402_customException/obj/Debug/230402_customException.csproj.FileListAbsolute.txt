@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_customException\bin\Debug\230402_customException.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_customException\bin\Debug\230402_customException.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_customException\bin\Debug\230402_customException.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_customException\obj\Debug\230402_customException.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_customException\obj\Debug\230402_customException.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_customException\obj\Debug\230402_customException.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_customException\obj\Debug\230402_customException.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_customException\obj\Debug\230402_customException.pdb

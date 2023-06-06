@@ -1,0 +1,103 @@
+using System;
+using System.Collections.Generic;
+
+namespace _221204Assignment1
+{
+    class Animal
+    {
+        public Animal()
+        {
+
+        }
+        public virtual void move()
+        {
+            Console.WriteLine();
+        }
+    }
+
+    class Human : Animal
+    {
+        public override void move()
+        {
+            Console.WriteLine("사람이 두발로 걷습니다. Human is walking.");
+        }
+        public void readBooks()
+        {
+            Console.WriteLine("사람이 책을 읽습니다. Human is reading a book.");
+        }
+
+
+    }
+
+    class Tiger : Animal
+    {
+        public override void move()
+        {
+            Console.WriteLine("호랑이가 네 발로 뜁니다. Tiger is running.");
+        }
+        public void hunting()
+        {
+            Console.WriteLine("호랑이가 사냥을 합니다. Tiger is hunting.");
+        }
+    }
+
+    class Eagle : Animal
+    {
+        public override void move()
+        {
+            Console.WriteLine("독수리가 하늘을 날아갑니다. Eagle is flying.");
+        }
+
+        public void flying()
+        {
+            Console.WriteLine("독수리가 날개를 쭉 펴고 멀리 날아갑니다. Eagle spreads its wings and flies away.");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Animal hAnimal = new Human();
+            Animal tAnimal = new Tiger();
+            Animal eAnimal = new Eagle();
+
+            List<Animal> animalList = new List<Animal>();
+            animalList.Add(hAnimal);
+            animalList.Add(tAnimal);
+            animalList.Add(eAnimal);
+
+            foreach (Animal animal in animalList)
+            {
+                animal.move();
+            }
+
+            Program test = new Program();
+            test.testDownCasting(animalList);
+        }
+
+        public void testDownCasting(List<Animal> list)
+        {
+            for (int i = 0; i < list.Count; i++)
+            {
+                Animal animal = list[i];
+
+                if (animal is Human)
+                {
+                    Human human = (Human)animal;
+                    human.readBooks();
+                }
+                else if (animal is Tiger)
+                {
+                    Tiger tiger = (Tiger)animal;
+                    tiger.hunting();
+                }
+                else if (animal is Eagle)
+                {
+                    Eagle eagle = (Eagle)animal;
+                    eagle.flying();
+                }
+            }
+        }
+    }
+}

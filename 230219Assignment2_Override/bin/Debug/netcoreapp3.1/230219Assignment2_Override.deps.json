@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "230219Assignment2_Override/1.0.0": {
+        "runtime": {
+          "230219Assignment2_Override.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "230219Assignment2_Override/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

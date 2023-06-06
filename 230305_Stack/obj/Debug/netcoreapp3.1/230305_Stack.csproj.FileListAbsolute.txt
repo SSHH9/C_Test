@@ -1,0 +1,14 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\bin\Debug\netcoreapp3.1\230305_Stack.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\bin\Debug\netcoreapp3.1\230305_Stack.deps.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\bin\Debug\netcoreapp3.1\230305_Stack.runtimeconfig.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\bin\Debug\netcoreapp3.1\230305_Stack.runtimeconfig.dev.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\bin\Debug\netcoreapp3.1\230305_Stack.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\bin\Debug\netcoreapp3.1\230305_Stack.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\obj\Debug\netcoreapp3.1\230305_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\obj\Debug\netcoreapp3.1\230305_Stack.AssemblyInfoInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\obj\Debug\netcoreapp3.1\230305_Stack.AssemblyInfo.cs
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\obj\Debug\netcoreapp3.1\230305_Stack.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\obj\Debug\netcoreapp3.1\230305_Stack.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\obj\Debug\netcoreapp3.1\230305_Stack.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\obj\Debug\netcoreapp3.1\230305_Stack.genruntimeconfig.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Stack\obj\Debug\netcoreapp3.1\230305_Stack.csproj.AssemblyReference.cache

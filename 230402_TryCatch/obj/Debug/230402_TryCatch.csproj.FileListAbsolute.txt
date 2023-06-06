@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_TryCatch\bin\Debug\230402_TryCatch.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_TryCatch\bin\Debug\230402_TryCatch.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_TryCatch\bin\Debug\230402_TryCatch.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_TryCatch\obj\Debug\230402_TryCatch.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_TryCatch\obj\Debug\230402_TryCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_TryCatch\obj\Debug\230402_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_TryCatch\obj\Debug\230402_TryCatch.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_TryCatch\obj\Debug\230402_TryCatch.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JKplfjqWBHT4pULqK9i4RI79zKBXlGrdsaNn4EM/j4Z2Om2hCtmgnOwktpQjETheQ5RRs+JwGmkyBVORYXP4Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\95082\\Desktop\\Program\\Practice2_C#_ChoiYuraClass\\221225_interface\\221225_interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\95082\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

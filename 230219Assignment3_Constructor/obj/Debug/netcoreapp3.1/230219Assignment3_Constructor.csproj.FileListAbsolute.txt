@@ -1,0 +1,14 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\bin\Debug\netcoreapp3.1\230219Assignment3_Constructor.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\bin\Debug\netcoreapp3.1\230219Assignment3_Constructor.deps.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\bin\Debug\netcoreapp3.1\230219Assignment3_Constructor.runtimeconfig.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\bin\Debug\netcoreapp3.1\230219Assignment3_Constructor.runtimeconfig.dev.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\bin\Debug\netcoreapp3.1\230219Assignment3_Constructor.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\bin\Debug\netcoreapp3.1\230219Assignment3_Constructor.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\obj\Debug\netcoreapp3.1\230219Assignment3_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\obj\Debug\netcoreapp3.1\230219Assignment3_Constructor.AssemblyInfoInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\obj\Debug\netcoreapp3.1\230219Assignment3_Constructor.AssemblyInfo.cs
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\obj\Debug\netcoreapp3.1\230219Assignment3_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\obj\Debug\netcoreapp3.1\230219Assignment3_Constructor.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\obj\Debug\netcoreapp3.1\230219Assignment3_Constructor.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\obj\Debug\netcoreapp3.1\230219Assignment3_Constructor.genruntimeconfig.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230219Assignment3_Constructor\obj\Debug\netcoreapp3.1\230219Assignment3_Constructor.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\bin\Debug\netcoreapp3.1\221127_class_Super,sub.exe
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\bin\Debug\netcoreapp3.1\221127_class_Super,sub.deps.json
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\bin\Debug\netcoreapp3.1\221127_class_Super,sub.runtimeconfig.json
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\bin\Debug\netcoreapp3.1\221127_class_Super,sub.runtimeconfig.dev.json
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\bin\Debug\netcoreapp3.1\221127_class_Super,sub.dll
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\bin\Debug\netcoreapp3.1\221127_class_Super,sub.pdb
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\obj\Debug\netcoreapp3.1\221127_class_Super,sub.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\obj\Debug\netcoreapp3.1\221127_class_Super,sub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\obj\Debug\netcoreapp3.1\221127_class_Super,sub.AssemblyInfoInputs.cache
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\obj\Debug\netcoreapp3.1\221127_class_Super,sub.AssemblyInfo.cs
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\obj\Debug\netcoreapp3.1\221127_class_Super,sub.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\obj\Debug\netcoreapp3.1\221127_class_Super,sub.dll
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\obj\Debug\netcoreapp3.1\221127_class_Super,sub.pdb
+C:\Users\95082\Desktop\Program\Practice1\221127_class_Super,sub\obj\Debug\netcoreapp3.1\221127_class_Super,sub.genruntimeconfig.cache

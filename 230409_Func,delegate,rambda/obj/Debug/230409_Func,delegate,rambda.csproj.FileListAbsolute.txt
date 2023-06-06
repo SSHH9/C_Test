@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_Func,delegate,rambda\bin\Debug\230409_Func,delegate,rambda.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_Func,delegate,rambda\bin\Debug\230409_Func,delegate,rambda.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_Func,delegate,rambda\bin\Debug\230409_Func,delegate,rambda.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_Func,delegate,rambda\obj\Debug\230409_Func,delegate,rambda.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_Func,delegate,rambda\obj\Debug\230409_Func,delegate,rambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_Func,delegate,rambda\obj\Debug\230409_Func,delegate,rambda.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_Func,delegate,rambda\obj\Debug\230409_Func,delegate,rambda.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230409_Func,delegate,rambda\obj\Debug\230409_Func,delegate,rambda.pdb

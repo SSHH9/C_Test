@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+
+namespace _230204Assignment4_233
+{
+    class Program
+    {
+        static List<string> make_list(string a)
+        {
+            List<string> list = new List<string> { };
+                        
+            for (int i = 0; i < a.Length; i++)
+            {
+                list.Add(a.Substring(i, 1));
+            }
+            //foreach (var item in list)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            return list;    
+        }
+        static void Main(string[] args)
+        {
+            List<string> list = make_list("abcd");
+
+            foreach (var item in list)
+            {
+                Console.WriteLine(item);
+            }
+        }
+    }
+}

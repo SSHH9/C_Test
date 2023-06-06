@@ -1,0 +1,9 @@
+C:\Users\95082\Desktop\Folder\Practice1\Practice1\bin\Debug\Practice1.exe.config
+C:\Users\95082\Desktop\Folder\Practice1\Practice1\bin\Debug\Practice1.exe
+C:\Users\95082\Desktop\Folder\Practice1\Practice1\bin\Debug\Practice1.pdb
+C:\Users\95082\Desktop\Folder\Practice1\Practice1\obj\Debug\Practice1.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Folder\Practice1\Practice1\obj\Debug\Practice1.Properties.Resources.resources
+C:\Users\95082\Desktop\Folder\Practice1\Practice1\obj\Debug\Practice1.csproj.GenerateResource.cache
+C:\Users\95082\Desktop\Folder\Practice1\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Folder\Practice1\Practice1\obj\Debug\Practice1.exe
+C:\Users\95082\Desktop\Folder\Practice1\Practice1\obj\Debug\Practice1.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "abm0uR7dC7STXkZmRAekBHajQKMujThu4D8BCu8V/H9SBl6zw1RNpESu6AP8NMBtqUVDBb2AZMVmCLtztlDU3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\95082\\Desktop\\Program\\Practice2_C#_ChoiYuraClass\\221218_OverrideInGame\\221218_OverrideInGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\95082\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

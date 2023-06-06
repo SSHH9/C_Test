@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_delegateDeclare\bin\Debug\230402_delegateDeclare.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_delegateDeclare\bin\Debug\230402_delegateDeclare.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_delegateDeclare\bin\Debug\230402_delegateDeclare.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_delegateDeclare\obj\Debug\230402_delegateDeclare.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_delegateDeclare\obj\Debug\230402_delegateDeclare.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_delegateDeclare\obj\Debug\230402_delegateDeclare.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_delegateDeclare\obj\Debug\230402_delegateDeclare.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230402_delegateDeclare\obj\Debug\230402_delegateDeclare.pdb

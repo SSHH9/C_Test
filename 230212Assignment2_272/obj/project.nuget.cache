@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gY0Uv9RAEfpXd//UJz8TO1+hAqT1OuQaxRQWvTotFWHXuhNog3UycTNYSiz7BbeFnVVpPDe7JCvQtJS85OZUZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\95082\\Desktop\\Program\\Practice2_C#_ChoiYuraClass\\230212Assignment2_272\\230212Assignment2_272.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\95082\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

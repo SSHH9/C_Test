@@ -1,0 +1,28 @@
+using System;
+
+namespace _230204Assignment1_227
+{
+    class Program
+    {
+        static void print_mxn(string a,int b)
+        {
+            char[] arr = a.ToCharArray();
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (i % b == 0 && i != 0)
+                {
+                    Console.WriteLine("");
+                }
+                Console.Write(arr[i]);
+
+            }
+
+            
+        }
+        static void Main(string[] args)
+        {
+            print_mxn("ABCDEFGHIJ",3);
+        }
+    }
+}

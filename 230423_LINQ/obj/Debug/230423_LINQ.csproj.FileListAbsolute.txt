@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_LINQ\bin\Debug\230423_LINQ.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_LINQ\bin\Debug\230423_LINQ.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_LINQ\bin\Debug\230423_LINQ.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_LINQ\obj\Debug\230423_LINQ.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_LINQ\obj\Debug\230423_LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_LINQ\obj\Debug\230423_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_LINQ\obj\Debug\230423_LINQ.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_LINQ\obj\Debug\230423_LINQ.pdb

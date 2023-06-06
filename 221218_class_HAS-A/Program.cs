@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace _221218_class_HAS_A
+{
+    class AA
+    {
+        private int num;
+        public void SetNum(int num)
+        {
+            this.num = num;
+        }
+        public void Print()
+        {
+            Console.WriteLine("num: " + num);
+        }
+    }
+    class BB    //AA를 상속하고 있는 것이 아니라 가지고 있는 것
+    {
+        AA[] aa;
+        public BB()     //BB 안에서 AA의 메소드를 사용가능
+        {
+            aa = new AA[5];
+        }
+        public void SetNum(int index, int num)
+        {
+            if (index < aa.Length)
+            {
+                aa[index] = new AA();
+                aa[index].SetNum(num);
+            }
+        }
+        public void Print()
+        {
+            for (int i = 0; i < aa.Length; i++)
+            {
+                if (null != aa[i])
+                {
+                    aa[i].Print();
+                }
+            }
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            BB bb = new BB();
+            bb.SetNum(0, 0);
+            bb.SetNum(1, 100);
+            bb.SetNum(2, 200);
+            bb.SetNum(3, 200);
+
+            bb.Print();
+        }
+    }
+}

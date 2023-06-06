@@ -1,0 +1,24 @@
+﻿using System;
+
+namespace _230204Assignment10_239
+{
+    class Program
+    {
+        private static int method1(int num)
+        {
+            return num + 4;
+        }
+        private static int method2(int num)
+        {
+            num = num + 2;
+
+            return method1(num);
+        }
+        static void Main(string[] args)
+        {
+            int c = method2(10);
+
+            Console.WriteLine(c);   //16
+        }
+    }
+}

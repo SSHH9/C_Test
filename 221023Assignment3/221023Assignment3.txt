@@ -1,0 +1,55 @@
+	//static int InputNumber(int count)
+        //{
+        //    Console.Write("Input ");
+        //}
+        static void PrintResult(int a, int b)
+        {
+            Console.WriteLine("{0} + {1} = {2}", a, b, a + b);
+        }
+        //static bool CheckEnd()
+        //{
+
+        //}
+        static void Main(string[] args)
+        {
+            string[] calArray = new string[10];
+            for (int i = 0; i < 10; i++)
+            {
+                int cal = 1;
+
+                Console.Write("Input First Number ");
+                int a = int.Parse(Console.ReadLine());
+                Console.Write("Input Second Number ");
+                int b = int.Parse(Console.ReadLine());
+                int ab = a + b;
+                PrintResult(a, b);
+                string stra = Convert.ToString(a);
+                string strb = Convert.ToString(b);
+                string strab = Convert.ToString(ab);
+                calArray[i] = stra + " + " + strb + " = " + strab;
+
+                Continue:
+                Console.Write("Calculation Again? (1:OK, 0:NO, Up to 10 times) ");
+                cal = int.Parse(Console.ReadLine());
+
+                if (cal == 1)
+                {
+                    continue;
+                }
+                                
+                else if (cal == 0)
+                {
+                    foreach (var c in calArray)
+                    {
+                        Console.WriteLine(c);
+                    }                    
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Wrong Number. Input again.");
+                    goto Continue;
+                }
+            }
+
+        }

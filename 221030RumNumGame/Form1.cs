@@ -1,0 +1,166 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Threading;
+using System.Windows.Forms;
+
+namespace _221030RumNumGame
+{
+    public partial class Form1 : Form
+    {
+        const string LINE = "-----------------------------------------------";
+        const int END_LINE = 42;
+        const int DELAY_TIME = 200;
+
+        static int runA = 0;
+        static int runB = 0;
+        static int runC = 0;
+        static int runD = 0;
+
+        static void ClearScreen()
+        {
+            Thread.Sleep(DELAY_TIME);
+            Console.Clear(); //지워야 앞으로 움직이는 것처럼 보임
+        }
+
+        static void Process(Random rnd)
+        {
+            //랜덤값 더해주기
+            ++runA;
+            ++runB;
+            ++runC;
+            ++runD;
+
+            int rndNum = rnd.Next(0, 4);    //0,1,2,3 중에서 랜덤
+            int rndRndNum = rnd.Next(0, 2); //0,1 중에서 랜덤
+
+            switch (rndNum)
+            {
+                case 0:
+                    runA += rndRndNum;
+                    break;
+                case 1:
+                    runB += rndRndNum;
+                    break;
+                case 2:
+                    runC += rndRndNum;
+                    break;
+                case 3:
+                    runD += rndRndNum;
+                    break;
+            }
+        }
+
+        static void UpdateScreen()
+        {
+            Console.WriteLine(LINE);
+
+            for (int i = 0; i < runA; i++)
+                Console.Write(" ");
+            Console.Write("1");
+
+            for (int i = END_LINE - runA; i >= 0; i--)
+                Console.Write(" ");
+            Console.WriteLine("|");
+
+
+            for (int i = 0; i < runB; i++)
+                Console.Write(" ");
+            Console.Write("2");
+
+            for (int i = END_LINE - runB; i >= 0; i--)
+                Console.Write(" ");
+            Console.WriteLine("|");
+
+
+            for (int i = 0; i < runC; i++)
+                Console.Write(" ");
+            Console.Write("3");
+            for (int i = END_LINE - runC; i >= 0; i--)
+                Console.Write(" ");
+            Console.WriteLine("|");
+
+
+            for (int i = 0; i < runD; i++)
+                Console.Write(" ");
+            Console.Write("4");
+            for (int i = END_LINE - runD; i >= 0; i--)
+                Console.Write(" ");
+            Console.WriteLine("|");
+
+            Console.WriteLine(LINE);
+        }
+
+        static bool CheckResult()
+        {
+            if (runA >= END_LINE || runB >= END_LINE || runC >= END_LINE || runD >= END_LINE)
+            //if문 안에서 무조건 return값이 필요
+            {
+                int runNum = 0;
+                string strResult = "result :  !! {0} Player Win !!";
+
+                if (runA >= END_LINE)
+                    runNum = 1;
+                else if (runB >= END_LINE)
+                    runNum = 2;
+                else if (runC >= END_LINE)
+                    runNum = 3;
+                else
+                    runNum = 4;
+
+                Console.WriteLine(strResult, runNum);
+
+                if ("0" == Console.ReadLine())
+                {
+                    runA = 0;
+                    runB = 0;
+                    runC = 0;
+                    runD = 0;
+
+                    return true;
+                }
+
+                else
+                    return false;
+
+                //0번 누르면 true -> 다시시작
+                //false -> break
+                ////bool isEnd = false;
+                ////int tmp = 0;
+
+                ////Console.Write("Restart : Input 0 ");
+                ////tmp = int.Parse(Console.ReadLine());
+                ////isEnd = (tmp == 0);
+
+                ////return isEnd;
+            }
+            return true; //무조건 return값 필요
+        }
+
+        public Form1()
+        {
+            InitializeComponent();
+
+            Random rnd = new Random();
+            
+
+            while (true)
+            {
+                ClearScreen();
+                
+                UpdateScreen();
+
+                Process(rnd);
+
+                if (CheckResult() == false)
+                    break;              
+                
+            }
+        }
+    }
+}

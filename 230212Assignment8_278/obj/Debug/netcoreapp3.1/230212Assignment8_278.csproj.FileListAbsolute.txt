@@ -1,0 +1,14 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\bin\Debug\netcoreapp3.1\230212Assignment8_278.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\bin\Debug\netcoreapp3.1\230212Assignment8_278.deps.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\bin\Debug\netcoreapp3.1\230212Assignment8_278.runtimeconfig.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\bin\Debug\netcoreapp3.1\230212Assignment8_278.runtimeconfig.dev.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\bin\Debug\netcoreapp3.1\230212Assignment8_278.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\bin\Debug\netcoreapp3.1\230212Assignment8_278.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\obj\Debug\netcoreapp3.1\230212Assignment8_278.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\obj\Debug\netcoreapp3.1\230212Assignment8_278.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\obj\Debug\netcoreapp3.1\230212Assignment8_278.AssemblyInfoInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\obj\Debug\netcoreapp3.1\230212Assignment8_278.AssemblyInfo.cs
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\obj\Debug\netcoreapp3.1\230212Assignment8_278.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\obj\Debug\netcoreapp3.1\230212Assignment8_278.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\obj\Debug\netcoreapp3.1\230212Assignment8_278.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230212Assignment8_278\obj\Debug\netcoreapp3.1\230212Assignment8_278.genruntimeconfig.cache

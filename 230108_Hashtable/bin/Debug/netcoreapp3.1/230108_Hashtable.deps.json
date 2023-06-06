@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "230108_Hashtable/1.0.0": {
+        "runtime": {
+          "230108_Hashtable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "230108_Hashtable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

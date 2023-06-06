@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_group\bin\Debug\230423_group.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_group\bin\Debug\230423_group.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_group\bin\Debug\230423_group.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_group\obj\Debug\230423_group.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_group\obj\Debug\230423_group.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_group\obj\Debug\230423_group.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_group\obj\Debug\230423_group.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_group\obj\Debug\230423_group.pdb

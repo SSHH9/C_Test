@@ -1,0 +1,28 @@
+
+        static int TotalSum(ref int kor, ref int mat, ref int eng)
+        {
+            int total = 0;
+            total = kor + mat + eng;
+            return total;
+        }
+        static void Average(int total, out float average)
+        {
+            average = total/3f;
+        }
+
+        static void Main(string[] args)
+        {
+            Console.Write("Input Korean score(int)");
+            int kor = int.Parse(Console.ReadLine());
+            Console.Write("Input Math score(int)");
+            int mat = int.Parse(Console.ReadLine());
+            Console.Write("Input English score(int)");
+            int eng = int.Parse(Console.ReadLine());
+            int total;
+            float average;
+
+            total = TotalSum(ref kor, ref mat, ref eng);
+            Average(total, out average);
+            Console.WriteLine("kor: {0}, mat: {1}, eng:{2}",kor,mat,eng);
+            Console.WriteLine("Total: {0}   Average:{1}", total, average);
+        }

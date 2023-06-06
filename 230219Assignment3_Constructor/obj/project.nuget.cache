@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfpVIjnZb42J8qRKyG4DOLRgHa1AiwlOlW1ka28+raLVdMlvo6cmU0WYFGwfN5MLOrtghXCyNbxy1SwOhr4Pow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\95082\\Desktop\\Program\\Practice2_C#_ChoiYuraClass\\230219Assignment3_Constructor\\230219Assignment3_Constructor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\95082\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

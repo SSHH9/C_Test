@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "230129Assignment8_195/1.0.0": {
+        "runtime": {
+          "230129Assignment8_195.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "230129Assignment8_195/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

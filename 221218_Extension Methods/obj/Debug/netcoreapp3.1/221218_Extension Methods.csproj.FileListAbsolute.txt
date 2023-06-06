@@ -1,0 +1,14 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\bin\Debug\netcoreapp3.1\221218_Extension Methods.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\bin\Debug\netcoreapp3.1\221218_Extension Methods.deps.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\bin\Debug\netcoreapp3.1\221218_Extension Methods.runtimeconfig.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\bin\Debug\netcoreapp3.1\221218_Extension Methods.runtimeconfig.dev.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\bin\Debug\netcoreapp3.1\221218_Extension Methods.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\bin\Debug\netcoreapp3.1\221218_Extension Methods.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\obj\Debug\netcoreapp3.1\221218_Extension Methods.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\obj\Debug\netcoreapp3.1\221218_Extension Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\obj\Debug\netcoreapp3.1\221218_Extension Methods.AssemblyInfoInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\obj\Debug\netcoreapp3.1\221218_Extension Methods.AssemblyInfo.cs
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\obj\Debug\netcoreapp3.1\221218_Extension Methods.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\obj\Debug\netcoreapp3.1\221218_Extension Methods.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\obj\Debug\netcoreapp3.1\221218_Extension Methods.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\221218_Extension Methods\obj\Debug\netcoreapp3.1\221218_Extension Methods.genruntimeconfig.cache

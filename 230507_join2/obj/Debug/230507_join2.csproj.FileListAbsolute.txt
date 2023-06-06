@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230507_join2\bin\Debug\230507_join2.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230507_join2\bin\Debug\230507_join2.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230507_join2\bin\Debug\230507_join2.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230507_join2\obj\Debug\230507_join2.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230507_join2\obj\Debug\230507_join2.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230507_join2\obj\Debug\230507_join2.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230507_join2\obj\Debug\230507_join2.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230507_join2\obj\Debug\230507_join2.pdb

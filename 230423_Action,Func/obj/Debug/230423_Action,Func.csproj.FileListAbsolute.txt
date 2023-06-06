@@ -1,0 +1,8 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_Action,Func\bin\Debug\230423_Action,Func.exe.config
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_Action,Func\bin\Debug\230423_Action,Func.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_Action,Func\bin\Debug\230423_Action,Func.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_Action,Func\obj\Debug\230423_Action,Func.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_Action,Func\obj\Debug\230423_Action,Func.csproj.SuggestedBindingRedirects.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_Action,Func\obj\Debug\230423_Action,Func.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_Action,Func\obj\Debug\230423_Action,Func.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230423_Action,Func\obj\Debug\230423_Action,Func.pdb

@@ -1,0 +1,14 @@
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\bin\Debug\netcoreapp3.1\230305_Dictionary.exe
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\bin\Debug\netcoreapp3.1\230305_Dictionary.deps.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\bin\Debug\netcoreapp3.1\230305_Dictionary.runtimeconfig.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\bin\Debug\netcoreapp3.1\230305_Dictionary.runtimeconfig.dev.json
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\bin\Debug\netcoreapp3.1\230305_Dictionary.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\bin\Debug\netcoreapp3.1\230305_Dictionary.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\obj\Debug\netcoreapp3.1\230305_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\obj\Debug\netcoreapp3.1\230305_Dictionary.AssemblyInfoInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\obj\Debug\netcoreapp3.1\230305_Dictionary.AssemblyInfo.cs
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\obj\Debug\netcoreapp3.1\230305_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\obj\Debug\netcoreapp3.1\230305_Dictionary.dll
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\obj\Debug\netcoreapp3.1\230305_Dictionary.pdb
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\obj\Debug\netcoreapp3.1\230305_Dictionary.genruntimeconfig.cache
+C:\Users\95082\Desktop\Program\Practice2_C#_ChoiYuraClass\230305_Dictionary\obj\Debug\netcoreapp3.1\230305_Dictionary.csproj.AssemblyReference.cache

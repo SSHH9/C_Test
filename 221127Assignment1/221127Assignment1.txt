@@ -1,0 +1,99 @@
+    class Bus
+    {
+        int busNumber;
+        int passengerCount;
+        int money=0;
+
+        public Bus(int busNumber)
+        {
+            this.busNumber = busNumber;
+            
+        }
+
+        /* 버스 수입과 승객수 계산 */
+        public void take(int money)
+        {
+            this.money = this.money + money;
+            this.passengerCount = money / 1000;
+        }
+
+        public void showBusInfo()
+        {
+            Console.WriteLine(busNumber + " 번 버스의 승객은 " + passengerCount + " 명이고, 수입은 " + money + " 원 입니다.");
+        }
+    }
+
+    class Subway
+    {
+        int lineNumber;
+        int passengerCount;
+        int money=0;
+
+        public Subway(int lineNumber)
+        {
+            this.lineNumber = lineNumber;
+        }
+
+        /* 지하철 수입과 승객수 계산 */
+        public void take(int money)
+        {
+            this.money = this.money + money;
+            this.passengerCount = money / 1200;
+        }
+
+        public void showSubwayInfo()
+        {
+            Console.WriteLine(lineNumber + " 번 지하철의 승객은 " + passengerCount + " 명이고, 수입은 " + money + " 원 입니다.");
+        }
+
+    }
+
+    class Student
+    {
+        string studentName;
+        //int grade;
+        int money;
+
+        /* 버스비 지불 */
+        public void takeBus(Bus bus)
+        {
+            
+            Console.WriteLine(studentName + " 님의 남은 돈은 " + money + " 원 입니다.");
+        }
+
+        /* 지하철비 지불 */
+        public void takeSubway(Subway subway)
+        {
+            Console.WriteLine(studentName + " 님의 남은 돈은 " + money + " 원 입니다.");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Student StudentJames = new Student();
+            //StudentJames.takeBus();
+
+            Bus bus = new Bus(100);
+            bus.take(1000);
+
+            Bus BusJames = new Bus(100);
+            BusJames.take(1000); //James 총 금액 5000
+
+            //Student StdentTomas = new Student();
+            //StdentTomas.takeSubway();
+
+            Subway subway = new Subway(2);
+            subway.take(1200);
+
+            Subway SubwayTomas = new Subway(2);
+            SubwayTomas.take(1200); //Tomas 총 금액 10000
+
+            //Student StdentTomas = new Student();
+            //StdentTomas.takeSubway();
+
+            BusJames.showBusInfo();
+            SubwayTomas.showSubwayInfo();
+        }
+    }

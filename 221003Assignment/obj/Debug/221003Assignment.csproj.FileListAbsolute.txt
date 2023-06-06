@@ -1,0 +1,9 @@
+C:\Users\95082\Desktop\Folder\Practice1\221003Assignment\bin\Debug\221003Assignment.exe.config
+C:\Users\95082\Desktop\Folder\Practice1\221003Assignment\bin\Debug\221003Assignment.exe
+C:\Users\95082\Desktop\Folder\Practice1\221003Assignment\bin\Debug\221003Assignment.pdb
+C:\Users\95082\Desktop\Folder\Practice1\221003Assignment\obj\Debug\221003Assignment.csproj.AssemblyReference.cache
+C:\Users\95082\Desktop\Folder\Practice1\221003Assignment\obj\Debug\_221003Assignment.Properties.Resources.resources
+C:\Users\95082\Desktop\Folder\Practice1\221003Assignment\obj\Debug\221003Assignment.csproj.GenerateResource.cache
+C:\Users\95082\Desktop\Folder\Practice1\221003Assignment\obj\Debug\221003Assignment.csproj.CoreCompileInputs.cache
+C:\Users\95082\Desktop\Folder\Practice1\221003Assignment\obj\Debug\221003Assignment.exe
+C:\Users\95082\Desktop\Folder\Practice1\221003Assignment\obj\Debug\221003Assignment.pdb
